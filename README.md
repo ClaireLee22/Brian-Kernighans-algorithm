@@ -1,4 +1,4 @@
-# Brian-Kernighans-algorithm
+# Brian-Kernighans-Algorithm
 
 [Brian Kernighan's algorithm: Count set bits in a number]()
 
